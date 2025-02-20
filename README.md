@@ -1,5 +1,6 @@
 
-<p align="center">![Screenshot 2025-02-21 092646](https://github.com/user-attachments/assets/6a39e024-c5f2-46dc-b0c0-08f8ff81b80b)
+<p align="center">
+  <img src="https://imgur.com/a/WXgDksE"/>
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
